@@ -3,5 +3,7 @@ Enable custom keyboard shortcuts that aren't officially available on Google Eart
 
 ### Keyboard Shortcuts
 Alt + D: Toggle street view
+
 Alt + S: Exit street view
+
 Alt + F: Reset angle to North-top (only on Google Earth)
